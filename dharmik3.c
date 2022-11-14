@@ -1,0 +1,9 @@
+#include<stdio.h>
+main(){
+
+printf("*'\t*'\t*'\t*'\t*'\n");
+printf("*'\t'\t'\t'\t'\*'\n");
+printf("*'\t'\t',hello,'\t'\t*'\n");
+printf("*'\t'\t'\t'\t*'\n");
+printf("*'\t*'\t*'\t*'\t*'\n");
+}
